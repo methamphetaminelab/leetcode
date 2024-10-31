@@ -1,2 +1,3 @@
 # leetcode
-Just my litcode solutions
+
+Just my leetcode solutions
