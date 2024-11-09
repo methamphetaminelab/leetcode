@@ -1,3 +1,3 @@
 # leetcode
 
-Just my leetcode solutions
+Just my leetcode(and neetcode) solutions
